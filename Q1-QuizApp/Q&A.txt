@@ -1,0 +1,15 @@
+What is three fifth of 100?:60
+How many years are there in a decade?:10
+What is the cube root of 1331?:11
+The wages of 10 workers for a six-day week is 1200 USD. What is the one day wage of 4 workers?:80
+What is the square root of 0.0081?:0.09
+Find the missing terms in 3, 6, 9, __, 15:12
+Solve 24/8+2:5
+Solve 300-(150x2):0
+How many sides does a decagon have?:10
+The largest 4 digit number is?:9999
+What should come in the place of question mark (?) in the following letter series based on the English alphabetical order? BE GJ LO QT ?:VY
+A bead seller arranged some beads in multi-layer box. The first layer of the box was square shaped with 4 rows and 6 columns. Each layer was 1 less in each dimension of the previous layer. What will be the maximum number of beads that could have been in the third layer from the first?:8
+Find the missing series 3, 12, 27, 48, 75, 108, ?:147
+What should come in the place of question mark (?) in the following letter series based on the English alphabetical order? CF HK MP RU ?:WZ 
+Nishant walks 30 meter in the north direction, after that he took a right turn and walks 40 meter. After that he took a right turn and walks 40 meter more and finally he took a right turn and stop after walking 40 meter. Find the distance of nishant from the initial position?:10
